@@ -2,6 +2,8 @@
 
 A place to render family recipes: https://githubschool.github.io/recipes
 
+Recipes are very good for beer cheese soup.
+
 ## Contributing
 - Fork Repository
 - Create feature branch
